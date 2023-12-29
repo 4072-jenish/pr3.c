@@ -1,3 +1,13 @@
+/*
+Q.3 Write a Program to find the sum of a first and the last digit of a number.
+For example,
+Input:
+Enter any number: 384
+
+Output: 
+The sum of the first and the last digit: 7
+*/
+
 #include<stdio.h>
 #include<conio.h>
 
